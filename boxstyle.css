@@ -1,0 +1,27 @@
+#topTitle{
+	text-align:center;
+	background-color:black;
+	color:white;
+	font-size:40px;
+}
+#boxoffice{
+	font-size:18px;
+	width:100%;
+	display:none;
+}
+
+.boxTitle{
+  text-align:center;
+  background-color:#5F5F5F;;
+  color:white;
+  font-size:20px;
+}
+.movRank{
+	text-align:center;
+	font-weight:bold;
+}
+
+.movDcnt, .movCcnt{
+	text-align:right;
+}
+
